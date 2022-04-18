@@ -8,15 +8,29 @@ body
 #p1
 {
   color: rgb(181, 193, 255);
+  border: 1px;
+  padding: 10px;
+  margin: 10px;
 }
 
 #p2
 {
-  color: #ffb5b5;
+  color: #FFB5B5;
 }
 
 #logo
 {
   width: 100px;
   height: 100px;
+}
+
+#h1
+{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#h2
+{
+  text-align: center;
 }
