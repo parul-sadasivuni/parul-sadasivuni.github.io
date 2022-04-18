@@ -20,8 +20,9 @@ body
 
 #logo
 {
-  width: 100px;
-  height: 100px;
+  max-width: 300px;
+  max-height: 300px;
+  align: center;
 }
 
 #h1
