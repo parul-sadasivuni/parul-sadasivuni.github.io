@@ -4,3 +4,13 @@ body
   color: white;
   font-size: 12;
 }
+
+#p1
+{
+  color: rgb(181, 193, 255);
+}
+
+#p2
+{
+  color: #ffb5b5;
+}
