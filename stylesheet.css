@@ -14,3 +14,9 @@ body
 {
   color: #ffb5b5;
 }
+
+#logo
+{
+  width: 100px;
+  height: 100px;
+}
