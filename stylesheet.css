@@ -39,3 +39,17 @@ body
   text-align:center;
   text-decoration: underline;
 }
+
+#vid
+{
+  float: left;
+}
+
+#text
+{
+  font-size: 50px;
+  float: right;
+  width: 400;
+  height: 480px;
+  border: 10px solid pink;
+}
